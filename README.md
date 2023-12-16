@@ -1,4 +1,4 @@
-![Header](./https://github.com/SkNaserHussain/itzNaser/blob/main/github-header-image.png)
+![Header](https://github.com/SkNaserHussain/itzNaser/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Sk Naser Hussain</h1>
 <h3 align="center">A passionate B.Tech CSE student from India</h3>
 
