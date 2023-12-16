@@ -1,4 +1,4 @@
-![Header](https://github.com/SkNaserHussain/itzNaser/blob/main/github-header-image.png)
+![Header](https://github.com/SkNaserHussain/SkNaserHussain/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sk Naser Hussain</h1>
 <h3 align="center">A passionate B.Tech CSE student from India</h3>
 
