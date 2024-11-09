@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sknaserhussain" alt="sknaserhussain" /></a> </p>
 
-- 🌱 I’m currently learning **C language**
-
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left">
